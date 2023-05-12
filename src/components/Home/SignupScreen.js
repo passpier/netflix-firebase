@@ -3,7 +3,7 @@ import {
   auth,
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
-} from "../../firebase";
+} from "../../../firebase";
 import styles from "./SignupScreen.module.css";
 
 function SignupScreen() {

@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from "react";
 import styles from "./Nav.module.css";
+import { useRouter } from "next/router";
 
 function Nav() {
   const [show, handleShow] = useState(false);
+  const router = useRouter();
   const transitionNavBar = () => {
     if (window.scrollY > 100) {
       handleShow(true);
@@ -25,6 +27,7 @@ function Nav() {
           alt=""
         />
         <img
+          onClick={() => router.push("/profile")}
           className={styles.nav__avatar}
           src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
           alt=""
