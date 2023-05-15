@@ -2,11 +2,11 @@
 
 Build Netflix clone with Next.js, React, Redux and Firebase.
 
-![](https://raw.githubusercontent.com/passpier/netflix-youtube/main/doc/netflix-clone-screenshot.png?token=GHSAT0AAAAAACBP4IMOE33J3V3WVT3VZFEWZDB74DQ)
+<img src="doc/netflix-clone-screenshot.png" style="max-width: 100%;">
 
 ## Architecture
 
-![image](https://raw.githubusercontent.com/passpier/netflix-youtube/main/doc/netflix-firebase-arc.png?token=GHSAT0AAAAAACBP4IMPELRLI2CTSDVZUCC6ZDB753A)
+<img src="doc/netflix-firebase-arc.png" style="max-width: 100%;">
 
 
 ## Getting Started
