@@ -2,12 +2,11 @@
 
 Build Netflix clone with Next.js, React, Redux and Firebase.
 
-![](https://hackmd.io/_uploads/rJCIxuyH3.png)
-
+![](https://raw.githubusercontent.com/passpier/netflix-youtube/main/doc/netflix-clone-screenshot.png?token=GHSAT0AAAAAACBP4IMOE33J3V3WVT3VZFEWZDB74DQ)
 
 ## Architecture
 
-![](https://hackmd.io/_uploads/B1jXjvkB2.png)
+![image](https://raw.githubusercontent.com/passpier/netflix-youtube/main/doc/netflix-firebase-arc.png?token=GHSAT0AAAAAACBP4IMPELRLI2CTSDVZUCC6ZDB753A)
 
 
 ## Getting Started
