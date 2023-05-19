@@ -18,7 +18,7 @@ function ProfileScreen() {
             alt=""
           />
           <div className={styles.profileScreen__details}>
-            <h2>{user.email}</h2>
+            <h2>{user?.email}</h2>
             <div className={styles.profileScreen__plans}>
               <h3>Plans</h3>
               <button
